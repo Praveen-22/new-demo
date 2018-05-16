@@ -1,0 +1,134 @@
+{ 
+	"pbcindex":[{
+	"filterSection1":{
+		"Location":
+		{
+			"loc_1":"chennai",
+			"loc_2":"madurai",
+			"loc_3":"covai"
+		},
+		"subLocation":{
+			"subLoc_1":"velachery",
+			"subLoc_1":"omr",
+			"subLoc_1":"tambaram",
+		},
+		"budget":
+		{
+			"budget_1":"10l to 25l",
+			 "budget_2":"25l to 50l",
+			 "budget_3":"50l to 1c",
+		}
+
+		},
+
+	"trendingBuilders":{
+		"trendingBuilders_1":{
+
+			"trendingImgUrl":"img url of lokaa developer",
+			"projectName":"lokaaDevelopers",
+			"projectCost":"10L",
+			"specification":/* List of spec*/
+			{
+			"spec_1":"",
+			"spec_2":"",
+			"spec_3":"",
+			}
+		},
+		"trendingBuilders_2":{
+
+			"trendingImgUrl":"img url of casagrand",
+			"projectName":"casagrand",
+			"projectCost":"20L",
+			"specification":/* List of spec*/
+			{
+			"spec_1":"",
+			"spec_2":"",
+			"spec_3":"",
+			}	
+		},	
+		
+		"trendingBuilders_3":{
+
+			"trendingImgUrl":"img url of adroit",
+			"projectName":"adroit",
+			"projectCost":"15L",
+			"specification":/* List of spec*/
+			{
+			"spec_1":"",
+			"spec_2":"",
+			"spec_3":"",
+			}
+		},
+		"trendingBuilders_4":{
+
+			"trendingImgUrl":"img url of akshaya",
+			"projectName":"akshaya",
+			"projectCost":"20L",
+			"specification":/* List of spec*/
+			{
+			"spec_1":"",
+			"spec_2":"",
+			"spec_3":"",
+			}	
+		}
+	}
+
+	}],
+	"trendingRedirection":[{
+
+		"lokaa":{
+			"banner_img1":"url of banner image",
+			"homeplan":"blue print of home", /*image url*/
+			"rate":"10L",
+			"room":"2bhk",
+			"year":"2019_may",
+			"facilites":{
+				"fact_1":"swimming pool",
+				"fact_2":"kids play area",
+				"fact_3":"gym",
+				"fact_4":"badmiton"
+			}
+		},
+			"casagrande":{
+			"banner_img1":"url of banner image",
+			"homeplan":"blue print of home", /*image url*/
+			"rate":"50L",
+			"room":"3bhk",
+			"year":"2020_may",
+			"facilites":{
+				"fact_1":"swimming pool",
+				"fact_2":"kids play area",
+				"fact_3":"gym",
+				"fact_4":"badmiton"
+			}
+		},
+			"adroit":{
+			"banner_img1":"url of banner image",
+			"homeplan":"blue print of home", /*image url*/
+			"rate":"80L",
+			"room":"4bhk",
+			"year":"2019_june",
+			"facilites":{
+				"fact_1":"swimming pool",
+				"fact_2":"kids play area",
+				"fact_3":"gym",
+				"fact_4":"badmiton"
+			}
+		},
+			"akshaya":{
+			"banner_img1":"url of banner image",
+			"homeplan":"blue print of home", /*image url*/
+			"rate":"5L",
+			"room":"1bhk",
+			"year":"2018_dec",
+			"facilites":{
+				"fact_1":"swimming pool",
+				"fact_2":"kids play area",
+				"fact_3":"gym",
+				"fact_4":"badmiton"
+			}
+		}
+				
+	}]
+}
+
